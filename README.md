@@ -5,6 +5,8 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/MinimalPerspectivesLda/IntegrationTest/_apis/build/status/MarceloMinimalPerspectives.calculator?branchName=master)](https://dev.azure.com/MinimalPerspectivesLda/IntegrationTest/_build/latest?definitionId=6&branchName=master)
 
+https://dev.azure.com/MinimalPerspectivesLda/IntegrationTest/_apis/build/status/MarceloMinimalPerspectives.calculator?branchName=master
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
